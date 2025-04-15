@@ -11,7 +11,7 @@ Despite the name, you also must complete `bonus.ipynb` (the name is an unfortuna
 ## Deliverables
 
 - `main.ipynb` (required)
-- `bonus.ipynb` (optional)
+- `bonus.ipynb` (required)
 
 ## Submission
 
