@@ -4,14 +4,12 @@
 
 ## Introduction
 
-In `main.ipynb` we'll familiarize you with one sample hypothesis tests. You will write Python code to conduct one sample hypothesis tests. There is also an OPTIONAL exercise on hypothesys testing for proportion sampling: when your obeservations all are either 1 or 0 and what you want to estimate is the percentage of occurence of 1s.
-
-Despite the name, you also must complete `bonus.ipynb` (the name is an unfortunate legacy that allows the AI grader to work) where you will learn about two types of t-tests: Student's t- and Paired t- tests.
+In `main.ipynb` we'll familiarize you with one sample hypothesis tests. You will write Python code to conduct one sample hypothesis tests. ts: Student's t- and Paired t- tests.
 
 ## Deliverables
 
 - `main.ipynb` (required)
-- `bonus.ipynb` (required)
+
 
 ## Submission
 
