@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In `main.ipynb` we'll familiarize you with one sample hypothesis tests. You will write Python code to conduct one sample hypothesis tests. ts: Student's t- and Paired t- tests.
+In `main.ipynb` we'll familiarize you with one sample hypothesis tests. You will write Python code to conduct one sample hypothesis tests.
 
 ## Deliverables
 
